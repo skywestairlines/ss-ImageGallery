@@ -23,9 +23,21 @@
             "css",
             "images",
             "javascript",
-            "gallery-ui/*/css",
-            "gallery-ui/*/javascript",
-            "gallery-ui/*/images"
+            "gallery-ui/fancybox/css",
+            "gallery-ui/fancybox/javascript",
+            "gallery-ui/fancybox/images",
+            "gallery-ui/lightbox/css",
+            "gallery-ui/lightbox/javascript",
+            "gallery-ui/lightbox/images",
+            "gallery-ui/nyro_modal/css",
+            "gallery-ui/nyro_modal/javascript",
+            "gallery-ui/nyro_modal/images",            
+            "gallery-ui/shadowbox/css",
+            "gallery-ui/shadowbox/javascript",
+            "gallery-ui/shadowbox/images",
+            "gallery-ui/prettyphoto/css",
+            "gallery-ui/prettyphoto/javascript",
+            "gallery-ui/prettyphoto/images"
         ]
 	}
 }
