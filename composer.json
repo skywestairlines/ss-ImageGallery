@@ -25,7 +25,7 @@
             "javascript",
             "gallery-ui/*/css",
             "gallery-ui/*/javascript",
-            "gallery-ui/*/images",
+            "gallery-ui/*/images"
         ]
 	}
 }
