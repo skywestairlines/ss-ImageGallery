@@ -18,6 +18,14 @@
 		"silverstripe/framework": "^4.0"
 	},
 	"extra": {
-		"installer-name": "image_gallery"
+		"installer-name": "image_gallery",
+        "expose": [
+            "css",
+            "images",
+            "javascript",
+            "gallery-ui/*/css",
+            "gallery-ui/*/javascript",
+            "gallery-ui/*/images",
+        ]
 	}
 }
