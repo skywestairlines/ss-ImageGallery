@@ -3,13 +3,10 @@
 namespace TractorCow\ImageGallery\Pages;
 
 use Page;
-use PageController;
 use GridFieldSortableRows;
 use SilverStripe\Forms\Tab;
 use SilverStripe\ORM\SS_List;
-use SilverStripe\Core\Convert;
 use SilverStripe\Assets\Folder;
-use SilverStripe\ORM\ArrayList;
 use SilverStripe\Core\ClassInfo;
 use SilverStripe\ORM\DataObject;
 use SilverStripe\Forms\FieldGroup;
