@@ -1,7 +1,7 @@
 {
 	"name": "skywest/ss-imagegallery",
 	"description": "Simple image gallery module for Silverstripe",
-	"type": "silverstripe-module",
+	"type": "library",
 	"keywords": ["silverstripe", "image", "gallery"],
 	"authors": [
 		{
